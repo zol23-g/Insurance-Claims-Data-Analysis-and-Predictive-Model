@@ -39,3 +39,6 @@ This project performs exploratory data analysis (EDA) and visualization on a dat
 1. Clone this repository.
    ```bash
    git clone https://github.com/zol23-g/Insurance-Claims-Data-Analysis-and-Predictive-Model.git
+2. Install dependencies
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook
