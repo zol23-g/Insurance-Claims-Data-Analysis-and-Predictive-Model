@@ -6,3 +6,4 @@ scikit-learn
 dvc
 missingno
 statsmodels
+xgboost
